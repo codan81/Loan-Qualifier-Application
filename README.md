@@ -34,7 +34,7 @@ python app.py
 
 Upon launching the loan qualifier application you will be greeted with the following prompts.
 
-![Loan_Qualifier_Prompts] (https://github.com/codan81/Loan-Qualifier-Application/blob/main/images/Screen%20Shot%202021-10-09%20at%202.53.53%20PM.png?raw=true)
+![Loan_Qualifier_Prompts](https://github.com/codan81/Loan-Qualifier-Application/blob/main/images/Screen%20Shot%202021-10-09%20at%202.53.53%20PM.png?raw=true)
 
 
 
